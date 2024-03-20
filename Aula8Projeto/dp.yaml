@@ -1,0 +1,50 @@
+vendas:
+  - id: 1
+    data: '2023-01-05'
+    produto: Banheira
+    quantidade: 2
+    preco_unitario: 2500.00
+    cliente_id: 101
+  - id: 2
+    data: '2023-02-12'
+    produto: Ofurô
+    quantidade: 1
+    preco_unitario: 3000.00
+    cliente_id: 102
+  - id: 3
+    data: '2023-03-20'
+    produto: Spa
+    quantidade: 3
+    preco_unitario: 5000.00
+    cliente_id: 103
+
+    comportamento_do_cliente:
+  - id: 101
+    nome: João da Silva
+    idade: 45
+    sexo: Masculino
+    cidade: São Paulo
+    valor_gasto_total: 
+  - id: 102
+    nome: Maria Oliveira
+    idade: 38
+    sexo: Feminino
+    cidade: Rio de Janeiro
+    valor_gasto_total: 
+  - id: 103
+    nome: Carlos Souza
+    idade: 50
+    sexo: Masculino
+    cidade: Belo Horizonte
+    valor_gasto_total:15000.00
+
+    desempenho_do_produto:
+  - produto: Banheira
+    vendas_totais: 
+    receita_total: 
+  - produto: Ofurô
+    vendas_totais: 
+    receita_total: 
+  - produto: Spa
+    vendas_totais: 
+    receita_total: 
