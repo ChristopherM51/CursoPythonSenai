@@ -1,0 +1,39 @@
+Banheira:
+  2023-01:
+    receita_total: 25000.0
+    total_vendas: 10
+  2023-04:
+    receita_total: 25000.0
+    total_vendas: 10
+  2023-07:
+    receita_total: 27500.0
+    total_vendas: 11
+  2023-10:
+    receita_total: 20000.0
+    total_vendas: 8
+Ofuro:
+  2023-02:
+    receita_total: 33000.0
+    total_vendas: 11
+  2023-05:
+    receita_total: 33000.0
+    total_vendas: 11
+  2023-08:
+    receita_total: 30000.0
+    total_vendas: 10
+  2023-11:
+    receita_total: 33000.0
+    total_vendas: 11
+Spa:
+  2023-03:
+    receita_total: 50000.0
+    total_vendas: 10
+  2023-06:
+    receita_total: 45000.0
+    total_vendas: 9
+  2023-09:
+    receita_total: 50000.0
+    total_vendas: 10
+  2023-12:
+    receita_total: 45000.0
+    total_vendas: 9
